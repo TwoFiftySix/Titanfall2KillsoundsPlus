@@ -1,11 +1,13 @@
 # Titanfall 2 Killsounds Plus
 Custom Killsounds for Titanfall 2
 
-This is a guide and a base to modding your killsound for the Titanfall 2 Northstar client
+This is a guide and a base to modding your killsound for the Titanfall 2 Northstar client.
+
 Download Oof_killsounds.zip if you only want one killsound, and KillsoundsPlus.zip if you want multiple, setup should be the same for both files
 
 For the setup:
-1) Copy and paste the contents of the autoexec.cfg file given into your autoexec.cfg file in your Titanfall2\r2\cfg folder. If it's not there, move the provided one in that spot instead.
+1) Copy and paste the contents of the autoexec.cfg file given into your autoexec.cfg file in your Titanfall2\r2\cfg folder. 
+   If it's not there, move the provided one in that spot instead.
 
 2) Go to Titanfall2\ns_startup_args.txt and add in: +exec autoexec.cfg
 
