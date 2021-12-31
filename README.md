@@ -16,6 +16,7 @@ For the setup:
 For Customisations:
 If you want to change your killsound to something else other than the provided minecraft oof sound. You need to change the killsound.bik provided to your own file.
 killsound.bik should be located in Titanfall2\r2\media
+
 If you want to change it, remember that your file has to be in the .bik format. It won't play if it is not a video.
 
 
