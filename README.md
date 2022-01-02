@@ -36,7 +36,9 @@ For Killsounds plus:
 Your sound should be at around -6db to -10db, if you are using RAD tools to convert, here's a small tutorial of what button to press
 
 ![image](https://user-images.githubusercontent.com/52123851/147867914-ccc2c9be-fdb4-4032-93ee-2feeec52211c.png)
+
 Press the bink it button
 
 ![image](https://user-images.githubusercontent.com/52123851/147867925-88837349-bb57-49e3-a3fa-911054156ddb.png)
+
 Press the bink button/ batch button if you are doing multiples at once
