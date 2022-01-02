@@ -21,5 +21,8 @@ If you want to change it, remember that your file has to be in the .bik format. 
 
 
 For Killsounds plus:
-1) The provided file only has 4 Bruh#2 sound effects in it so you have to customise it yourself
+1) The provided file only has 4 Bruh#2 sound effects in it so you have to customise it yourself. my suggestion is to use mp4 to .bik using RAD tools. I have no idea how other converters would work out.
 2) Go to your Titanfall2\r2\media folder and change the killsound1,killsound2, killsound3,and killsound4 to the ones you want
+
+-If your custom sounds don't work, try using the default files. 
+-The randomiser might not work if you are not using the wasd keyboard layout as it is bound to the wasd keys and you might need to change the last 4 lines of the autoexec.cfg file from "bind w +w" to "bind [your key here] +w" change accordingly for the 4 lines. You dont need to change the +w part, if you do change it, you need to change all the aliases as well.
