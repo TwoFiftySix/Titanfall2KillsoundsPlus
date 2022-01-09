@@ -8,7 +8,7 @@ Download Oof_killsounds.zip if you only want one killsound, and KillsoundsPlus.z
 For Oof_killsounds:
 1) Extract and put into Titanfall2 folder. (NOT Titanfall 2\R2 Northstar\mods folder)
 2) autoexec file goes into Titanffall2/r2/cfg folder
-3) add -exec autoexec to ns_startup_args.txt
+3) add +exec autoexec to ns_startup_args.txt
 
 For KillsoundsPlus:
 1) Copy and paste the contents of the autoexec.cfg file given into your autoexec.cfg file in your Titanfall2\r2\cfg folder. 
